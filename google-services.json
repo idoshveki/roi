@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786590004608",
+    "firebase_url": "https://roiapp-91036.firebaseio.com",
+    "project_id": "roiapp-91036",
+    "storage_bucket": "roiapp-91036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786590004608:android:1f3c523ea38103ba11bd65",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786590004608-k5r95aadvac5dnvj634r7bfttpanejs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1E8UCp51_3WOqO0vScL6IcJJZgNzbBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786590004608-k5r95aadvac5dnvj634r7bfttpanejs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
